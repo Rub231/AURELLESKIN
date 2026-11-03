@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aurelle-aesthetic-clinic-332449.hostingersite.com/sitemap.xml
